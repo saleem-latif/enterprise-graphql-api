@@ -1,0 +1,16 @@
+.vscode
+.DS_Store
+.eslintcache
+node_modules
+npm-debug.log
+coverage
+module.config.js*
+
+dist/
+.idea
+
+# emacs
+*~
+
+# edx
+.env.private
